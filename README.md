@@ -1,4 +1,4 @@
 # firstproject
 first githubb project
 <br>
-Auther-NitishPrakash
+Auther-NitishPrakash (NP)
